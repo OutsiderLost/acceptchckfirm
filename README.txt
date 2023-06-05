@@ -1,5 +1,5 @@
 # acceptchckfirm
-Custom firmware packaging, file system damage can be checked.
+Custom firmware, file system damage can be checked.
 ============================================================
 
 use -> ./scrpt <firmware.bin>
